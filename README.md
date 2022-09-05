@@ -88,3 +88,7 @@ You are expected to see a much lower score (~0.22) than NN-based segmentation.
 ```bash
 python lda.py --train-dir ../data/train --test-dir ../data/test
 ```
+
+## Reference
+
+> Yin, B., Hu, Q., Zhu, Y., Zhao, C. and Zhou, K., 2022. Paw-Net: Stacking ensemble deep learning for segmenting scanning electron microscopy images of fine-grained shale samples. Computers & Geosciences, p.105218.
